@@ -296,12 +296,8 @@ nav ul li a:hover {
 
 /* Mobile */
 @media screen and (max-width: 576px) {
-    body {
-        overflow-x: hidden;
-    }
     .menu-toggle {
         display: flex;
-        overflow-x: hidden;
         z-index: 2;
     }
     nav ul {
